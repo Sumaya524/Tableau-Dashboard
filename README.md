@@ -9,4 +9,4 @@
 
 - [x] [View SALES DASHBOAD](https://public.tableau.com/views/SalesDashboard_16764975949820/SalesDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 
--[x] [View #Makeover Monday 2023 W5-NYC Pizza Slices](https://public.tableau.com/views/MakeoverMonday2023NYCPizzaSlices/MakeoverMonday2023W5NYCPizzaSlices?:language=en-US&:display_count=n&:origin=viz_share_link)
+- [x] [View #Makeover Monday 2023 W5-NYC Pizza Slices](https://public.tableau.com/views/MakeoverMonday2023NYCPizzaSlices/MakeoverMonday2023W5NYCPizzaSlices?:language=en-US&:display_count=n&:origin=viz_share_link)
