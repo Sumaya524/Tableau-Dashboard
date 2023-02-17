@@ -8,3 +8,5 @@
 - [x] [View #MakeoverMonday 2021 W7-What's the point of Valentines day](https://public.tableau.com/views/MakeoverMonday2021W7-WhatspointofValentinesDay/MakeoverMonday2021W7-WhatsthepointofValentinesday?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 - [x] [View SALES DASHBOAD](https://public.tableau.com/views/SalesDashboard_16764975949820/SalesDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+-[x] [View #Makeover Monday 2023 W5-NYC Pizza Slices](https://public.tableau.com/views/MakeoverMonday2023NYCPizzaSlices/MakeoverMonday2023W5NYCPizzaSlices?:language=en-US&:display_count=n&:origin=viz_share_link)
