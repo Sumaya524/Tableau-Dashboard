@@ -14,3 +14,5 @@
 - [x] [View Layoff DASHBOARD 2020-2023](https://public.tableau.com/views/LayoffDashboard2020-2023/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 - [x] [View ECOMMERCE DASHBOARD 2023](https://public.tableau.com/views/EcommerceSalesDashboard_16770174620440/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+- [x] [View HR Analytics DASHBOARD 2023](https://public.tableau.com/views/HRAnalytics_16769164457390/HRANALYTICSDASHBOARD?:language=en-US&:display_count=n&:origin=viz_share_link)
